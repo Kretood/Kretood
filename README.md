@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <a href="https://github.com/HamzaK" target="_blank">HamzaK</a> 🍞</h1>
+<h1 align="center">🍞 Hey there, I'm <a href="https://github.com/Kretood" target="_blank">HamzaK</a> 🍞</h1>
 
 <p align="start">
   <img src="https://github.com/HamzaK/bread-gif.gif" height="100px"/>
